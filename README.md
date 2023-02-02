@@ -1,9 +1,7 @@
-# SQL_Files
 <p align="center">
 <img src ="https://user-images.githubusercontent.com/42587988/216411547-3d8d75ef-8286-4c77-8eeb-4dfd51ad5699.png" alt="Radius" width="260" height="230">
 </p>
 
----
 ## SQL Certification 
 ## HackerRank SQL Solutions
 
