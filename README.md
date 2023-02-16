@@ -5,7 +5,7 @@
 ## SQL Certification 
 ## HackerRank SQL Solutions
 
- | Problem Name     |Difficulty Level|                     Solution (SQL)|
+ | Problem Name     |Difficulty Level|                     Solution (MySQL)|
  | :-: |:-:| :-: | 
  | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | Easy|[Click Here](https://github.com/abhinandanraj/My_SQL_Files/blob/main/HackerRank%20SQL%20Solutions/Revising%20the%20Select%20Query%20I.sql)|
  | [Select ALL](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | Easy|[Click Here](https://github.com/abhinandanraj/My_SQL_Files/blob/main/HackerRank%20SQL%20Solutions/Select%20ALL.sql)|
@@ -16,4 +16,8 @@
 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | Easy|[Click Here](https://github.com/abhinandanraj/My_SQL_Files/blob/main/HackerRank%20SQL%20Solutions/Weather%20Observation%20Station%201.SQL)|
 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | Easy|[Click Here](https://github.com/abhinandanraj/My_SQL_Files/blob/main/HackerRank%20SQL%20Solutions/Weather%20Observation%20Station%206.sql)|
 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | Easy|[Click Here]()|
----
+
+## LeetCode SQL Solutions
+
+ | Problem Name     |Difficulty Level|                     Solution (MySQL)|
+ | :-: |:-:| :-: | 
